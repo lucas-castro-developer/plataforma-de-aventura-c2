@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="assets/tutorial.png">
+    <img src="assets/logo.png">
   </a>
 
   <h3 align="center">Plataforma de Aventura</h3>
